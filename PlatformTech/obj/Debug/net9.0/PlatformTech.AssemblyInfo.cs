@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlatformTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786b517dbc764d7f2bbbaad5ca89d69eeb806133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0726e9dfdf490a9f9bf035b9eb4ee0740a3125ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlatformTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlatformTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

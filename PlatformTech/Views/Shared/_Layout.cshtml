@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PlatformTech.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -40,11 +41,12 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - PlatformTech - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+<footer class="border-top footer text-muted" style="position: fixed; bottom: 0; width: 100%; background-color: #f8f9fa; padding: 10px 0; box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); z-index: 1000;">
+    <div class="container">
+        &copy; 2024 - PlatformTech - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
