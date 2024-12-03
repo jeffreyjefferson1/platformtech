@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\",
+  "WorkspaceRootPath": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\models\\pfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\models\\pfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\toddj\\source\\repos\\platformtechnologyokaykana\\platformtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|c:\\users\\german\\downloads\\aftasd\\platformtech\\platformtech\\models\\pfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C807095-5ADB-46AB-93EF-C4735E4E99F2}|PlatformTech\\PlatformTech.csproj|solutionrelative:platformtech\\models\\pfdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,41 +54,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "PlatformTech\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "PlatformTech\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "PlatformTech\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "PlatformTech\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T14:20:19.226Z",
+              "WhenOpened": "2024-12-03T14:49:24.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PlatformTech\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "PlatformTech\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:49:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "PlatformTech\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "PlatformTech\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T14:20:19.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Products\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "PlatformTech\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "PlatformTech\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-03T12:54:25.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PlatformTech\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PlatformTech\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -89,24 +122,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PlatformTech\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PlatformTech\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T12:59:29.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:59:29.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PlatformTech\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "PlatformTech\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -117,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "PlatformTech\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "PlatformTech\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Program.cs",
               "RelativeDocumentMoniker": "PlatformTech\\Program.cs",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Program.cs",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Program.cs",
               "RelativeToolTip": "PlatformTech\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,29 +171,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\appsettings.json",
               "RelativeDocumentMoniker": "PlatformTech\\appsettings.json",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\appsettings.json",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\appsettings.json",
               "RelativeToolTip": "PlatformTech\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T12:51:03.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:51:03.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "pfDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Models\\pfDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Models\\pfDbContext.cs",
               "RelativeDocumentMoniker": "PlatformTech\\Models\\pfDbContext.cs",
-              "ToolTip": "C:\\Users\\toddj\\source\\repos\\PlatformTechnologyOkayKana\\PlatformTech\\Models\\pfDbContext.cs",
+              "ToolTip": "C:\\Users\\German\\Downloads\\aftasd\\platformtech\\PlatformTech\\Models\\pfDbContext.cs",
               "RelativeToolTip": "PlatformTech\\Models\\pfDbContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA5wAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:50:36.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:50:36.944Z"
             }
           ]
         }
